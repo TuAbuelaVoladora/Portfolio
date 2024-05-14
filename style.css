@@ -3,7 +3,7 @@
 :root{
     --ff: "Maven Pro", sans-serif;
     --colorprimary: #ffffff;
-    --colorsecondary: #000000;
+    --colorsecondary: #070707;
     --color-accent: #5865F2;
     --h1: bold 64px/72px var(--ff);
     --p: 20px/30px var(var(--ff))
